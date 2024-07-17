@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Poorvika H R Gowda</h1>
-<h3 align="center">A passionathe worker</h3>
+<h3 align="center">A passionate worker</h3>
 
 - 🌱 I’m currently learning **python in artificial intelligence**
 
